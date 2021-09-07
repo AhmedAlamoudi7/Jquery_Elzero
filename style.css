@@ -1,0 +1,12 @@
+span {
+    display: none;
+}
+
+.div-3 {
+    background: rgb(51, 51, 31);
+    padding: 70px;
+    display: block;
+    position:relative;
+    width:400px;
+    height:200px;
+}
